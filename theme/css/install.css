@@ -1,0 +1,16 @@
+.install-body
+{
+	background: url(../images/background.jpg) no-repeat center center fixed;
+	background-size: cover;
+	moz-background-size: cover;
+	o-background-size: cover;
+	webkit-background-size: cover;
+	font-family: 'Titillium Web', sans-serif;
+	color:#2c3e50;
+}
+.install-apps{margin-top:50px;}
+.install-content-body{padding:10px 30px;}
+.form-group {margin-bottom:10px !important;}
+.loader{display:none;}
+#install-form-1{display:none;}
+.instruction p{color:#c0392b;}
